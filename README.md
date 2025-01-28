@@ -5,4 +5,4 @@
 
 ### Contact information:
   - [Linkedin](https://www.linkedin.com/in/garroroman/)
-  - [Resume (English)](cv_en.pdf) | [CV (Español)](cv_es.pdf) | [Lebenslauf (Deutsch)](cv_de.pdf)
+  - [Resume (English)](cv_en.pdf) | [Lebenslauf (Deutsch)](cv_de.pdf)
